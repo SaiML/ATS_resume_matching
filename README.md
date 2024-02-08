@@ -9,11 +9,11 @@ App deployed on [Streamlit Community Cloud](https://soumee2000-applicant-trackin
 3. Get their [cosine similarity](https://developers.google.com/machine-learning/clustering/similarity/measuring-similarity)
 
 ## Workflow:
-<img src = "https://github.com/SOUMEE2000/Applicant_Tracking_System/blob/main/Demo/Workflow.png">
+<img src = "https://github.com/SaiML/ATS_resume_matching/blob/main/Demo/Workflow.png">
 
 ## Interface
-<img src = "https://github.com/SOUMEE2000/Resume_Scanner/blob/main/Demo/Interface.png" height=400>
-<img src = "https://github.com/SOUMEE2000/Applicant_Tracking_System/blob/main/Demo/Interface_Results.png" height = 400 width = 800>
+<img src = "https://github.com/SaiML/ATS_resume_matching/blob/main/Demo/Interface.png" height=400>
+<img src = "https://github.com/SaiML/ATS_resume_matching/blob/main/Demo/Interface_Results.png" height = 400 width = 800>
 
 ## Usage
 
